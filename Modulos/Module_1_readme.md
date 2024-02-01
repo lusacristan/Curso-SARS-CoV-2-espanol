@@ -1,5 +1,5 @@
 
-## Module making for SARS-CoV-2 B4B
+## Módulo 1
 
 The base for practical content for this course will be in Python notebooks (.ipynb)
 
