@@ -1,50 +1,50 @@
+## Módulo 1
 
-## Módulo 1vv
+La base del contenido práctico para este curso será en Python Notebooks (.ipynb)
 
-The base for practical content for this course will be in Python notebooks (.ipynb)
+Estos notebooks deben ser trabajados en la plataforma Google Colab - https://colab.research.google.com 
 
-These must be workable in the Google Colab platform - https://colab.research.google.com 
-
-We have created an example notebook - 
-
-## Lecture Videos to watch:
+## Videos para ver:
 
 [Module 1: Playlist](https://www.youtube.com/playlist?list=PLfovZnX0TvKtHq6Q4L5KdW332NCD4GbtU)
 
-Please use this as a start base for your module. 
+Utilice esto como una base de inicio para el módulo. 
 
-## How to begin Part 1:
-NB- you must begin part 1 before part 2. 
+## Cómo comenzar la Parte 1:
+NB- Debe comenzar la Parte 1 antes de la Parte 2. 
 
-To begin, go to https://colab.research.google.com/ 
+Para comenzar, ir a https://colab.research.google.com/ 
 
-Use of Colab is free. Note - There are limitations on the free version, but we will not reach these for our conversion purposes. 
+El uso de Colab es gratis. Nota: existen limitaciones en la versión gratuita, pero no serán alcanzadas en este curso.
 
-On the Colab example home page, select "File", then "Open Notebook"
+En la página de inicio de Ejemplo de Colab, seleccione "Archivo", luego "Abrir bloc de notas"
 
-There is a Tab for "Github"; select that tab and paste 
+Hay una pestaña para "Github"; Seleccione esa pestaña y pegue: 
 ```
-https://github.com/WCSCourses/SARS-COV-2_B4B
+https://github.com/lusacristan/Curso_SARS-CoV-2
 ```
-into the search bar under "Enter a GitHub URL or search by organization or user" 
+en la barra de búsqueda debajo "Ingresa una URL de GitHub o realiza una búsqueda por organización o usuario" 
 
-After a brief search, you will see
+Después de una breve búsqueda, verá
 ```
-Modules/Module_1_Notebook_Part1and2_v1.ipynb
+Modules/01.Modulo_1_Notebook_Parte1y2.ipynb
 ```
-below "Path". Click on "Module_1_Notebook_Part1and2_v2.ipynb"
+Seleccione y verá el notebook abierto.
 
-In order to run the cells, you will need to login with your Google account (it is free to make an account).
+Para ejecutar las celdas, deberá iniciar sesión con su cuenta de Google (es libre de hacer una cuenta).
 
-**NB - The one opened directly from git will not save unless the first notebook steps are followed!**
 
-## How to begin Part 2:
-NB- you must begin part 1 before part 2. We will be using the same notebook for part 1 and part 2.
 
-Part 2 will require you to find your notebook and continue where you left off. 
+## Cómo comenzar la Parte 2:
 
-By default, your Notebooks will save in a folder on My Drive of your Google Drive called "Colab Notebooks". 
+NB- Debe comenzar la Parte 1 antes de la Parte 2. Usaremos el mismo notebook para la Parte 1 y la Parte 2.
 
-Watch the videos for Part 2 in the playlist, and resume the notebook. NB - you will need to rerun the conda install cell. 
+La Parte 2 requerirá que encuentre su notebook y continúe donde lo dejó.
+
+De manera predeterminada, sus notebooks se guardarán en una carpeta en mi unidad de Google Drive llamada "Notebooks de Colab".
+
+Mire los videos para la Parte 2 en la lista de reproducción y reanude el notebook.
+
+Nota: necesitará volver a ejecutar la celda de instalación de conda. 
 
 
