@@ -26,11 +26,12 @@ El análisis continuo del SARS-CoV-2 permite monitorear la propagación del viru
 ## Público objetivo
 
 El curso está dirigido a estudiantes, investigadores o profesionales clínicos/sanitarios. No requiere habilidades previas en bioinformática.
-Requisitos generales
 
-**El curso utilizará Google Colaboratory, el cual es gratuito, pero requiere una cuenta de Google para su uso. Las cuentas de Google son gratuitas.**
+## Requisitos generales
 
-## Metodología del curso
+El curso utilizará Google Colaboratory, el cual es gratuito, pero requiere una cuenta de Google para su uso. Las cuentas de Google son gratuitas.
+
+## ¿Cómo iniciar?
 Este curso está diseñado en fue diseñado en 5 módulos y se inicia con el módulo 00.Introduccion_Notebook. Para cada módulo, primero leer el readme del modulo (archivos con la extension .md). Una vez leido este readme, abra en google colab el notebook extension ipynb. las instrucciones detalladas las encontrara en cada md.
 
 
@@ -64,10 +65,11 @@ Continuous analysis of SARS-CoV-2 allows monitoring the virus spread, understand
 ## Target Audience
 
 The course is aimed at students, researchers, or clinical/healthcare professionals. No prior bioinformatics skills are required.
-General Requirements
 
-**The course will use Google Colaboratory, which is free but requires a Google account for use. Google accounts are free.**
+## General Requirements
 
-## Course Methodology
+The course will use Google Colaboratory, which is free but requires a Google account for use. Google accounts are free.
+
+## How to begin?
 
 This course is designed in 5 modules and starts with module 00: Introduction_Notebook. For each module, first, read the module's readme (files with the .md extension). Once you have read this readme, open the notebook with the .ipynb extension in Google Colab. Detailed instructions can be found in each .md file.
