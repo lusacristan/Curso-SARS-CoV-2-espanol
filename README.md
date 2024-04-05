@@ -1,4 +1,4 @@
-# Español: Curso_SARS-CoV-2
+# Curso SARS-CoV-2
 Repositorio del curso "Bioinformática para el análisis de SARS-CoV-2 para principiantes."
 
 ## Resumen
@@ -36,7 +36,7 @@ Este curso está diseñado en fue diseñado en 5 módulos y se inicia con el mó
 
 
 
-# English: Course_SARS-CoV-2
+# English: Course SARS-CoV-2
 Repository of the course "Bioinformatics for SARS-CoV-2 analysis for beginners."
 
 ## Summary
