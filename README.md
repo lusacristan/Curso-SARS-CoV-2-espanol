@@ -13,6 +13,14 @@ El análisis continuo del SARS-CoV-2 permite monitorear la propagación del viru
 - Identificar los metadatos clave que deben ser incluídos al cargar secuencias en repositorios en línea.
 - Describir los principios generales de la aplicación de los resultados del análisis en la respuesta a brotes, epizootias y pandemias.
 
+## Público objetivo
+
+El curso está dirigido a estudiantes, investigadores o profesionales clínicos/sanitarios. No requiere habilidades previas en bioinformática.
+
+## Requisitos generales
+
+El curso utilizará Google Colaboratory, el cual es gratuito, pero requiere una cuenta de Google para su uso. Las cuentas de Google son gratuitas.
+
 ## Programa
 
 **1.** [Introducción a Google Colaboratory](./Modules_english/00.Introduction_Notebook.ipynb)
@@ -20,8 +28,6 @@ El análisis continuo del SARS-CoV-2 permite monitorear la propagación del viru
 Para comenzar, vaya a https://colab.research.google.com/.
 
 En la página de inicio de Colab, seleccione "Archivo" y luego "Abrir bloc de notas". 
-
-![colab](/images/colab1.png)
 
 Hay una pestaña para "GitHub"; seleccione esa pestaña y pegue la siguiente URL en la barra de búsqueda debajo de "Ingresa una URL de GitHub o realiza una búsqueda por organización o usuario":
 
@@ -34,11 +40,9 @@ Después de una breve búsqueda verá el notebook:
 
 Seleccione y verá el notebook abierto.
 
-![colab](/images/colab2.png)
-
 Para ejecutar las celdas, deberá iniciar sesión con su cuenta de Google (es libre de hacer una cuenta). El uso de Colab es gratis. 
 
-**Nota: existen limitaciones en la versión gratuita, pero no serán alcanzadas en este curso.**
+**Nota:** existen limitaciones en la versión gratuita, pero no serán alcanzadas en este curso.
 
 **2.** Introducción a Unix/Linux y ejecución de comandos.
 
