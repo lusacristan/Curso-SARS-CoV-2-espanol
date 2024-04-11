@@ -15,17 +15,17 @@ El análisis continuo del SARS-CoV-2 permite monitorear la propagación del viru
 
 ## Programa
 
-1. [Introducción a Google Colaboratory](./Modules_english/00.Introduction_Notebook.ipynb)
+**1.** [Introducción a Google Colaboratory](./Modules_english/00.Introduction_Notebook.ipynb)
 
 Para comenzar, vaya a https://colab.research.google.com/.
 
-En la página de inicio de Colab, seleccione "Archivo" y luego "Abrir bloc de notas".
-
-Hay una pestaña para "GitHub"; seleccione esa pestaña y pegue la siguiente URL en la barra de búsqueda debajo de "Ingresa una URL de GitHub o realiza una búsqueda por organización o usuario":
+En la página de inicio de Colab, seleccione "Archivo" y luego "Abrir bloc de notas". Hay una pestaña para "GitHub"; seleccione esa pestaña y pegue la siguiente URL en la barra de búsqueda debajo de "Ingresa una URL de GitHub o realiza una búsqueda por organización o usuario":
 
 `https://github.com/lusacristan/Curso_SARS-CoV-2`
 
-Después de una breve búsqueda, verá
+![colab](../Curso_SARS-CoV-2/images/colab1.png)
+
+Después de una breve búsqueda verá el notebook:
 
 `00.Intro_a_colab.ipynb`
 
@@ -35,14 +35,14 @@ Para ejecutar las celdas, deberá iniciar sesión con su cuenta de Google (es li
 
 **Nota: existen limitaciones en la versión gratuita, pero no serán alcanzadas en este curso.**
 
-2. Introducción a Unix/Linux y ejecución de comandos.
+**2.** Introducción a Unix/Linux y ejecución de comandos.
 
 
-3. Introducción a las tecnologías de NGS empleadas en el secuenciamiento del SARS-CoV-2.
-4. Control de calidad de datos.
-5. Flujos de trabajo para el análisis de secuenciación.
-6. Uso del software Pangolin para la identificación de linajes.
-7. Exploración de datos genómicos en un contexto latinoamericano.
+**3.** Introducción a las tecnologías de NGS empleadas en el secuenciamiento del SARS-CoV-2.
+**4.** Control de calidad de datos.
+**5.** Flujos de trabajo para el análisis de secuenciación.
+**6.** Uso del software Pangolin para la identificación de linajes.
+**7.** Exploración de datos genómicos en un contexto latinoamericano.
 
 ## Público objetivo
 
