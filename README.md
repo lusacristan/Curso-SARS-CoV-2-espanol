@@ -23,7 +23,7 @@ En la página de inicio de Colab, seleccione "Archivo" y luego "Abrir bloc de no
 
 `https://github.com/lusacristan/Curso_SARS-CoV-2`
 
-![colab](../images/colab1.png)
+![colab](/images/colab1.png)
 
 Después de una breve búsqueda verá el notebook:
 
