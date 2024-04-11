@@ -23,7 +23,7 @@ El curso utilizará Google Colaboratory, el cual es gratuito, pero requiere una 
 
 ## Programa
 
-**1.** [Introducción a Google Colaboratory](./Modules_english/00.Introduction_Notebook.ipynb)
+**1.** [Introducción a Google Colaboratory](00.Intro_a_colab.ipynb)
 
 Para comenzar, vaya a https://colab.research.google.com/.
 
@@ -31,7 +31,7 @@ En la página de inicio de Colab, seleccione "Archivo" y luego "Abrir bloc de no
 
 Hay una pestaña para "GitHub"; seleccione esa pestaña y pegue la siguiente URL en la barra de búsqueda debajo de "Ingresa una URL de GitHub o realiza una búsqueda por organización o usuario":
 
-`https://github.com/lusacristan/Curso_SARS-CoV-2`
+`https://github.com/lusacristan/Curso-SARS-CoV-2-espanol`
 
 
 Después de una breve búsqueda verá el notebook:
@@ -44,14 +44,98 @@ Para ejecutar las celdas, deberá iniciar sesión con su cuenta de Google (es li
 
 **Nota:** existen limitaciones en la versión gratuita, pero no serán alcanzadas en este curso.
 
-**2.** Introducción a Unix/Linux y ejecución de comandos.
+**2.** [Introducción a Notebooks y Unix/Linux.](01.Modulo_1_linux.ipynb)
+
+Vaya a https://colab.research.google.com/.
+
+Seleccione el repositorio
+
+`https://github.com/lusacristan/Curso-SARS-CoV-2-espanol`
+
+Después de una breve búsqueda verá el notebook:
+
+`01.Modulo_1_linux.ipynb`
+
+Seleccione y verá el notebook abierto.
 
 
-**3.** Introducción a las tecnologías de NGS empleadas en el secuenciamiento del SARS-CoV-2.
-**4.** Control de calidad de datos.
-**5.** Flujos de trabajo para el análisis de secuenciación.
-**6.** Uso del software Pangolin para la identificación de linajes.
-**7.** Exploración de datos genómicos en un contexto latinoamericano.
+**3.** [Introducción a las tecnologías de NGS empleadas en el secuenciamiento del SARS-CoV-2.](02.Modulo_2_NGS.ipynb)
+
+Vaya a https://colab.research.google.com/.
+
+Seleccione el repositorio
+
+`https://github.com/lusacristan/Curso-SARS-CoV-2-espanol`
+
+Después de una breve búsqueda verá el notebook:
+
+`02.Modulo_2_NGS.ipynb`
+
+Seleccione y verá el notebook abierto.
+
+**4.** [Control de calidad de datos.](03.Modulo_3_QC.ipynb)
+
+Vaya a https://colab.research.google.com/.
+
+Seleccione el repositorio
+
+`https://github.com/lusacristan/Curso-SARS-CoV-2-espanol`
+
+Después de una breve búsqueda verá el notebook:
+
+`03.Modulo_3_QC.ipynb`
+
+Seleccione y verá el notebook abierto.
+
+**5.** Flujos de trabajo para el análisis de datos de SARS-CoV-2 secuenciados con Illumina y Nanopore tech.
+
+Este módulo está dividido en dos partes.
+
+- Parte 1: [Análisis de datos Nanopore](04.Modulo_4_P1_nanopore.ipynb)
+
+- Parte 2: [Análisis de datos Illumina](04.Modulo_4_P2_illumina.ipynb)
+
+Vaya a https://colab.research.google.com/.
+
+Seleccione el repositorio
+
+`https://github.com/lusacristan/Curso-SARS-CoV-2-espanol`
+
+
+Después de una breve búsqueda verá los notebooks:
+
+`04.Modulo_4_P1_nanopore.ipynb`
+`04.Modulo_4_P2_illumina.ipynb`
+
+Seleccione y verá el notebook abierto.
+
+**6.** [Uso del software Pangolin para la identificación de linajes.](05.Modulo_5_linajes.ipynb)
+
+Vaya a https://colab.research.google.com/.
+
+Seleccione el repositorio
+
+`https://github.com/lusacristan/Curso-SARS-CoV-2-espanol`
+
+Después de una breve búsqueda verá el notebook:
+
+`05.Modulo_5_linajes.ipynb`
+
+Seleccione y verá el notebook abierto.
+
+**7.** [Análisis filogenómico](06.Modulo_6_filogenomica.ipynb) .
+
+Vaya a https://colab.research.google.com/.
+
+Seleccione el repositorio
+
+`https://github.com/lusacristan/Curso-SARS-CoV-2-espanol`
+
+Después de una breve búsqueda verá el notebook:
+
+`06.Modulo_6_filogenomica.ipynb`
+
+Seleccione y verá el notebook abierto.
 
 ## Público objetivo
 
