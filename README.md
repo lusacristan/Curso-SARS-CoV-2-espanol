@@ -19,17 +19,22 @@ El análisis continuo del SARS-CoV-2 permite monitorear la propagación del viru
 
 Para comenzar, vaya a https://colab.research.google.com/.
 
-En la página de inicio de Colab, seleccione "Archivo" y luego "Abrir bloc de notas". Hay una pestaña para "GitHub"; seleccione esa pestaña y pegue la siguiente URL en la barra de búsqueda debajo de "Ingresa una URL de GitHub o realiza una búsqueda por organización o usuario":
+En la página de inicio de Colab, seleccione "Archivo" y luego "Abrir bloc de notas". 
+
+![colab](/images/colab1.png)
+
+Hay una pestaña para "GitHub"; seleccione esa pestaña y pegue la siguiente URL en la barra de búsqueda debajo de "Ingresa una URL de GitHub o realiza una búsqueda por organización o usuario":
 
 `https://github.com/lusacristan/Curso_SARS-CoV-2`
 
-![colab](/images/colab1.png)
 
 Después de una breve búsqueda verá el notebook:
 
 `00.Intro_a_colab.ipynb`
 
 Seleccione y verá el notebook abierto.
+
+![colab](/images/colab2.png)
 
 Para ejecutar las celdas, deberá iniciar sesión con su cuenta de Google (es libre de hacer una cuenta). El uso de Colab es gratis. 
 
