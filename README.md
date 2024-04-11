@@ -15,7 +15,7 @@ El análisis continuo del SARS-CoV-2 permite monitorear la propagación del viru
 
 ## Programa
 
-1. Introducción a Notebooks de Python.
+1. [Introducción a Notebooks de Python](./Modules_english/00.Introduction_Notebook.ipynb)
 2. Introducción a Unix/Linux y ejecución de comandos.
 3. Introducción a las tecnologías de NGS empleadas en el secuenciamiento del SARS-CoV-2.
 4. Control de calidad de datos.
