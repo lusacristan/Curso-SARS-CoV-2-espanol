@@ -25,7 +25,7 @@ El curso utilizará Google Colaboratory, el cual es gratuito, pero requiere una 
 
 
 
-**1.** [Introducción a Google Colaboratory](00.Intro_a_colab.ipynb)
+**1. Módulo 1:** [Introducción a Google Colaboratory](00.Intro_a_colab.ipynb)
 
 Para comenzar, vaya a https://colab.research.google.com/.
 
@@ -46,7 +46,7 @@ Para ejecutar las celdas, deberá iniciar sesión con su cuenta de Google (es li
 
 **Nota:** existen limitaciones en la versión gratuita, pero no serán alcanzadas en este curso.
 
-**2.** [Introducción a Notebooks y Unix/Linux.](01.Modulo_1_linux.ipynb)
+**2. Módulo 2:** [Introducción a Notebooks y Unix/Linux.](01.Modulo_1_linux.ipynb)
 
 Vaya a https://colab.research.google.com/.
 
@@ -61,7 +61,7 @@ Después de una breve búsqueda verá el notebook:
 Seleccione y verá el notebook abierto.
 
 
-**3.** [Introducción a las tecnologías de NGS empleadas en el secuenciamiento del SARS-CoV-2.](02.Modulo_2_NGS.ipynb)
+**3. Módulo 3:** [Introducción a las tecnologías de NGS empleadas en el secuenciamiento del SARS-CoV-2.](02.Modulo_2_NGS.ipynb)
 
 Vaya a https://colab.research.google.com/.
 
@@ -75,7 +75,7 @@ Después de una breve búsqueda verá el notebook:
 
 Seleccione y verá el notebook abierto.
 
-**4.** [Control de calidad de datos.](03.Modulo_3_QC.ipynb)
+**4. Módulo 4:** [Control de calidad de datos.](03.Modulo_3_QC.ipynb)
 
 Vaya a https://colab.research.google.com/.
 
@@ -89,7 +89,7 @@ Después de una breve búsqueda verá el notebook:
 
 Seleccione y verá el notebook abierto.
 
-**5.** Flujos de trabajo para el análisis de datos de SARS-CoV-2 secuenciados con Illumina y Nanopore tech.
+**5. Módulo 5:** Flujos de trabajo para el análisis de datos de SARS-CoV-2 secuenciados con Illumina y Nanopore tech.
 
 Este módulo está dividido en dos partes.
 
@@ -111,7 +111,7 @@ Después de una breve búsqueda verá los notebooks:
 
 Seleccione y verá el notebook abierto.
 
-**6.** [Uso del software Pangolin para la identificación de linajes.](05.Modulo_5_linajes.ipynb)
+**6. Módulo 6:** [Uso del software Pangolin para la identificación de linajes.](05.Modulo_5_linajes.ipynb)
 
 Vaya a https://colab.research.google.com/.
 
@@ -125,7 +125,7 @@ Después de una breve búsqueda verá el notebook:
 
 Seleccione y verá el notebook abierto.
 
-**7.** [Análisis filogenómico](06.Modulo_6_filogenomica.ipynb) .
+**7. Módulo 7:** [Análisis filogenómico](06.Modulo_6_filogenomica.ipynb) .
 
 Vaya a https://colab.research.google.com/.
 
