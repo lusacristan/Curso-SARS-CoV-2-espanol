@@ -23,6 +23,8 @@ El curso utilizará Google Colaboratory, el cual es gratuito, pero requiere una 
 
 ## Programa
 
+
+
 **1.** [Introducción a Google Colaboratory](00.Intro_a_colab.ipynb)
 
 Para comenzar, vaya a https://colab.research.google.com/.
@@ -136,19 +138,6 @@ Después de una breve búsqueda verá el notebook:
 `06.Modulo_6_filogenomica.ipynb`
 
 Seleccione y verá el notebook abierto.
-
-## Público objetivo
-
-El curso está dirigido a estudiantes, investigadores o profesionales clínicos/sanitarios. No requiere habilidades previas en bioinformática.
-
-## Requisitos generales
-
-El curso utilizará Google Colaboratory, el cual es gratuito, pero requiere una cuenta de Google para su uso. Las cuentas de Google son gratuitas.
-
-## ¿Cómo iniciar?
-Este curso está diseñado en fue diseñado en 5 módulos y se inicia con el módulo 00.Introduccion_Notebook. Para cada módulo, primero leer el readme del modulo (archivos con la extension .md). Una vez leido este readme, abra en google colab el notebook extension ipynb. las instrucciones detalladas las encontrara en cada md.
-
-
 
 
 # English: Course SARS-CoV-2
