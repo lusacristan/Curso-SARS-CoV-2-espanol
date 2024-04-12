@@ -25,7 +25,7 @@ El curso utilizará Google Colaboratory, el cual es gratuito, pero requiere una 
 
 
 
-### Módulo 1: [Introducción a Google Colaboratory](00.Intro_a_colab.ipynb)
+### Módulo 1: [Introducción a Google Colaboratory](01.Intro_a_colab.ipynb)
 
 Para comenzar, vaya a https://colab.research.google.com/.
 
@@ -38,7 +38,7 @@ Hay una pestaña para "GitHub"; seleccione esa pestaña y pegue la siguiente URL
 
 Después de una breve búsqueda verá el notebook:
 
-`00.Intro_a_colab.ipynb`
+`01.Intro_a_colab.ipynb`
 
 Seleccione y verá el notebook abierto.
 
@@ -46,7 +46,7 @@ Para ejecutar las celdas, deberá iniciar sesión con su cuenta de Google (es li
 
 **Nota:** existen limitaciones en la versión gratuita, pero no serán alcanzadas en este curso.
 
-### Módulo 2: [Introducción a Notebooks y Unix/Linux.](01.Modulo_1_linux.ipynb)
+### Módulo 2: [Introducción a Notebooks y Unix/Linux.](02.Modulo_2_linux.ipynb)
 
 Vaya a https://colab.research.google.com/.
 
@@ -56,12 +56,12 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`01.Modulo_1_linux.ipynb`
+`02.Modulo_2_linux.ipynb`
 
 Seleccione y verá el notebook abierto.
 
 
-### Módulo 3: [Introducción a las tecnologías de NGS empleadas en el secuenciamiento del SARS-CoV-2.](02.Modulo_2_NGS.ipynb)
+### Módulo 3: [Introducción a las tecnologías de NGS empleadas en el secuenciamiento del SARS-CoV-2.](03.Modulo_3_NGS.ipynb)
 
 Vaya a https://colab.research.google.com/.
 
@@ -71,11 +71,11 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`02.Modulo_2_NGS.ipynb`
+`03.Modulo_3_NGS.ipynb`
 
 Seleccione y verá el notebook abierto.
 
-### Módulo 4: [Control de calidad de datos.](03.Modulo_3_QC.ipynb)
+### Módulo 4: [Control de calidad de datos.](04.Modulo_4_QC.ipynb)
 
 Vaya a https://colab.research.google.com/.
 
@@ -85,7 +85,7 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`03.Modulo_3_QC.ipynb`
+`04.Modulo_4_QC.ipynb`
 
 Seleccione y verá el notebook abierto.
 
@@ -93,9 +93,9 @@ Seleccione y verá el notebook abierto.
 
 Este módulo está dividido en dos partes.
 
-- Parte 1: [Análisis de datos Nanopore](04.Modulo_4_P1_nanopore.ipynb)
+- Parte 1: [Análisis de datos Nanopore](05.Modulo_5_P1_nanopore.ipynb)
 
-- Parte 2: [Análisis de datos Illumina](04.Modulo_4_P2_illumina.ipynb)
+- Parte 2: [Análisis de datos Illumina](05.Modulo_5_P2_illumina.ipynb)
 
 Vaya a https://colab.research.google.com/.
 
@@ -106,12 +106,13 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá los notebooks:
 
-`04.Modulo_4_P1_nanopore.ipynb`
-`04.Modulo_4_P2_illumina.ipynb`
+`05.Modulo_5_P1_nanopore.ipynb`
+
+`05.Modulo_5_P2_illumina.ipynb`
 
 Seleccione y verá el notebook abierto.
 
-### Módulo 6: [Uso del software Pangolin para la identificación de linajes.](05.Modulo_5_linajes.ipynb)
+### Módulo 6: [Uso del software Pangolin para la identificación de linajes.](06.Modulo_6_linajes.ipynb)
 
 Vaya a https://colab.research.google.com/.
 
@@ -121,11 +122,11 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`05.Modulo_5_linajes.ipynb`
+`06.Modulo_6_linajes.ipynb`
 
 Seleccione y verá el notebook abierto.
 
-### Módulo 7:[Análisis filogenómico](06.Modulo_6_filogenomica.ipynb) .
+### Módulo 7:[Análisis filogenómico](07.Modulo_7_filogenomica.ipynb) .
 
 Vaya a https://colab.research.google.com/.
 
@@ -135,7 +136,7 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`06.Modulo_6_filogenomica.ipynb`
+`07.Modulo_7_filogenomica.ipynb`
 
 Seleccione y verá el notebook abierto.
 
