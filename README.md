@@ -126,7 +126,7 @@ Después de una breve búsqueda verá el notebook:
 
 Seleccione y verá el notebook abierto.
 
-### Módulo 7:[Análisis filogenómico](07.Modulo_7_filogenomica.ipynb) .
+### Módulo 7:[Análisis filogenético](07.Modulo_7_filogenetica.ipynb) .
 
 Vaya a https://colab.research.google.com/.
 
@@ -136,7 +136,7 @@ Seleccione el repositorio
 
 Después de una breve búsqueda verá el notebook:
 
-`07.Modulo_7_filogenomica.ipynb`
+`07.Modulo_7_filogenetica.ipynb`
 
 Seleccione y verá el notebook abierto.
 
