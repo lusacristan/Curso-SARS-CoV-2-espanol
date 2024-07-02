@@ -10,8 +10,6 @@ El análisis continuo del SARS-CoV-2 permite monitorear la propagación del viru
 - Aplicar herramientas de línea de comandos para el control de calidad de datos de secuencias.
 - Identificar los formatos de los archivos comúnmente utilizados en la secuenciación del SARS-CoV-2.
 - Utilizar Pangolin para la identificación de  linajes virales a partir de conjuntos de datos existentes.
-- Identificar los metadatos clave que deben ser incluídos al cargar secuencias en repositorios en línea.
-- Describir los principios generales de la aplicación de los resultados del análisis en la respuesta a brotes, epizootias y pandemias.
 
 ## Público objetivo
 
